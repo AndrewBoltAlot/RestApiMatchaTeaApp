@@ -1,10 +1,34 @@
 {
 "posts": [
     {
-      "title": Matcha Tea,
-      "image url": "hello"
-        "price":29.99
-        
+      "title": "Encha Matcha",
+      "image url": "https://images-na.ssl-images-amazon.com/images/I/619Yw8N0YtL._SL1500_.jpg"
+        "price":"$27.95"
+    }
+    {
+    "title":
+    "image url":
+    "price":
+    }
+      {
+    "title":
+    "image url":
+    "price":
+    }
+      {
+    "title":
+    "image url":
+    "price":
+    }
+      {
+    "title:
+    "image url":
+    "price":
+    }
+      {
+    "title":
+    "image url":
+    "price":
     }
   ],
   "profile": {
