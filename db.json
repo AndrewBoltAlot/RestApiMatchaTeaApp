@@ -1,32 +1,27 @@
 {
-"posts": [
+"products": [
     {
       "title": "Encha Matcha",
-      "image url": "https://images-na.ssl-images-amazon.com/images/I/619Yw8N0YtL._SL1500_.jpg"
+      "image url": "https://images-na.ssl-images-amazon.com/images/I/41l88mMyVTL._SS500_.jpg",
         "price":"$27.95"
-    }
+    },
     {
-    "title":
-    "image url":
-    "price":
-    }
+    "title":"Grace Matcha",
+    "image url":"https://cdn.shopify.com/s/files/1/0796/2801/products/matcha-gold-1-3_grande.jpg?v=1552140980",
+    "price":"$25.95"
+    },
       {
-    "title":
-    "image url":
-    "price":
-    }
+    "title":"Soar Organics",
+    "image url":"https://www.thebnecessities.com/wp-content/uploads/2019/06/soar-organics-ceremonial-matcha-30g-tin_600x-300x300.jpg",
+    "price":"$25.99"
+    },
       {
-    "title":
-    "image url":
-    "price":
-    }
+    "title":"Pure Matcha",
+    "image url":"https://s.s-bol.com/imgbase0/imagebase3/large/FC/3/0/7/1/9200000076261703.jpg",
+    "price":"$20.99"
+    },
       {
-    "title:
-    "image url":
-    "price":
-    }
-      {
-    "title":
+    "title:"Mizuba Tea"
     "image url":
     "price":
     }
